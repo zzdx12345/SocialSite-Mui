@@ -1,0 +1,57 @@
+{
+    "feedList": [
+        {
+            "id": 1,
+            "avatar": "https://mui.com/static/images/avatar/1.jpg",
+            "name": "Alex",
+            "title": "Shrimp and Chorizo Paella",
+            "subheader": "September 14, 2022",
+            "image": "https://picsum.photos/600?random=2",
+            "alt": "Paella dish",
+            "desc": "This impressive paella is a perfect party dish and a fun meal to cook together with your guests. Add 1 cup of frozen peas along with the mussels if you like"
+        },
+        {
+            "id": 2,
+            "avatar": "https://mui.com/static/images/avatar/3.jpg",
+            "name": "Sandra",
+            "title": "Lizard",
+            "subheader": "September 17, 2022",
+            "image": "https://picsum.photos/600?random=4",
+            "alt": "Paella dish",
+            "desc": "Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica"
+        },
+        {
+            "id": 3,
+            "avatar": "https://mui.com/static/images/avatar/2.jpg",
+            "name": "Jennifer",
+            "title": "Health issues",
+            "subheader": "September 20, 2022",
+            "image": "https://picsum.photos/600?random=5",
+            "alt": "Paella dish",
+            "desc": "Overall, pugs were found to be around 1.9 times as likely to have one or more disorders recorded in a single year compared to non-pugs The findings do not come as a surprise to Dr Myfanwy Hill, a veterinary surgeon who works at the University of Cambridge The issue you've got is a dog with a smaller skull, but nothing else about the dog has gotten equivalently smaller"
+        }
+    ],
+    "chatRecord": [
+        {
+            "id": 1,
+            "name": "Alex",
+            "avatar": "https://mui.com/static/images/avatar/1.jpg",
+            "subheader": "September 14, 2016",
+            "detail": "I'll be in your neighborhood doing errands this…"
+        },
+        {
+            "id": 2,
+            "name": "Jennifer",
+            "avatar": "https://mui.com/static/images/avatar/2.jpg",
+            "subheader": "September 14, 2016",
+            "detail": "Wish I could come, but I'm out of town this…"
+        },
+        {
+            "id": 3,
+            "name": "Sandra",
+            "avatar": "https://mui.com/static/images/avatar/3.jpg",
+            "subheader": "September 14, 2016",
+            "detail": "Do you have Paris recommendations? Have you ever…"
+        }
+    ]
+}
